@@ -59,7 +59,6 @@ notebook / lab frontend. For lab, this is done by the command:
 
 ```
 jupyter labextension develop --overwrite .
-yarn run build
 ```
 
 For classic notebook, you can run:
